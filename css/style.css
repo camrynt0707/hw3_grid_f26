@@ -153,6 +153,6 @@ nav a:hover, nav a:focus {
 
      .text-block {
           max-height: 235px;
-          overflow-y: auto; /* need to account for accessibility in the html as noted in the instructions */
+          overflow-y: auto; 
      }
 }
